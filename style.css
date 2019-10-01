@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+text-align: center;
+}
+
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+section > figure > figcaption {
+  display: block;
+  margin: auto;
+  font-size: 11px;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+#details div {
+  display: block;
+  float: left;
+  background-color: green;
+  text-align: center;
+  width: 25%;
+}
